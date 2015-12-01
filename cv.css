@@ -1,0 +1,73 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+        background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/eight_horns.png");
+        background-attachment:fixed;
+        clear:both;
+}
+
+li {
+    padding:10px;
+    margin:15px;
+}
+
+.entete {
+    display:inline-block;
+    margin:15px;
+    vertical-align:top;
+}
+
+
+.conteneur{
+        width:100%;
+        max-width:960px;
+        padding:10px;
+        margin:15px;
+        margin:auto;
+}
+   
+
+main{
+    background-image:url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/nice_snow.png");
+    background-attachment:fixed;
+    clear:both;
+}
+
+iframe {
+    width:50%;
+    vertical-align:middle;
+    border:5px solid lightgrey;
+    
+}
+
+footer {
+    background-image:url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/binding_dark.png");
+    background-attachment:fixed;
+    clear:both;
+}
+
+footer p {
+        display:inline-block;
+        margin-left:100px;
+        vertical-align:middle;
+        color:white;
+        
+}
+#my-footer {
+    padding:30px;
+    background: rgb(30,30,30);
+    color: lightgrey;
+}
+
+#my-footer a {
+    color:lightgrey;
+    font-size:30px;
+
+
+}
+
+#my-footer a:hover {
+    color:white;
+}
